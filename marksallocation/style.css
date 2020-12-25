@@ -1,0 +1,33 @@
+body
+{
+background: url("image/bgimg.jpg") no-repeat ;
+background-size: cover;
+}
+.form-container{
+background : rgba(0,0,0,0.5);
+padding :30px 30px;
+
+}
+.c{
+  background : rgba(1, 132, 255, 0.5);
+
+
+}
+
+#lb1
+{
+font-size: 30px;
+color: rgb(red, green, rgb(27, 34, 121));
+
+}
+
+.c1
+{
+  top:300px;
+}
+
+.l1
+{
+  background : rgb(253, 4, 4);
+  
+}
